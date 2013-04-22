@@ -1,0 +1,67 @@
+Courses Book List:
+New Mobile and Cloud Computing Classes are starting from this Sunday in Sir Syed University. We plan to prepare you step-by-step for the latest Microsoft certifications and open source technologies:
+
+1. Microsoft Certified Solutions Developer (MCSD): Windows Store Apps certification:
+http://www.microsoft.com/learning/en/us/certification/mcsd-windows-store-apps.aspx 
+2. Cutting edge Open Source Web Development using Require, D3, jQuery, Backbone, Bootstrap, Node.js, MongoDB, etc.
+
+
+Mobile & Cloud Computing-101: Functional & Object-Oriented Programming using JavaScript
+Sunday: 11:00 a.m.-1:00 p.m.
+Prerequisite: No Programing background required
+Start Preparation for Exam: 
+1. Microsoft 70-480 Programming in HTML5 with JavaScript and CSS3
+http://www.microsoft.com/learning/en/us/exam.aspx?id=70-480 
+Books:
+1. The Definitive Guide to HTML5
+http://www.wowebook.be/book/the-definitive-guide-to-html5/ 
+2. Eloquent JavaScript: A Modern Introduction to Programming
+http://www.wowebook.be/book/eloquent-javascript/
+
+Mobile & Cloud Computing-201: Html5 Mobile & Real-Time Web Application Development
+Sunday: 1:00 p.m.-3:00 p.m.
+Prerequisite: Knows any programming language
+Complete Preparation for Exam: 
+1. Microsoft Exam 70-480 Programming in HTML5 with JavaScript and CSS3
+http://www.microsoft.com/learning/en/us/exam.aspx?id=70-480
+Books:
+1. The Definitive Guide to HTML5
+http://www.wowebook.be/book/the-definitive-guide-to-html5/ 
+2. Eloquent JavaScript: A Modern Introduction to Programming
+http://www.wowebook.be/book/eloquent-javascript/ 
+3. jQuery
+http://www.wowebook.com/book/javascript-and-jquery-the-missing-manual-2nd-edition/ 
+http://www.wowebook.be/book/pro-jquery/ 
+4. Learning Node
+http://www.wowebook.be/book/learning-node/
+
+5. Require, Bootstrap, and Backbone References
+http://requirejs.org/
+http://twitter.github.com/bootstrap/
+http://backbonejs.org/
+
+6. D3.js and Interactive Data Visualization and Controls
+http://www.wowebook.com/book/interactive-data-visualization-for-the-web/ 
+
+Mobile & Cloud Computing-251: Building Apps for App stores using Cloud Computing/ Databases 
+Sunday: 3:30 pm-6:00 pm
+Preparation for Exam: 
+1. Microsoft Exam 70-481: Essentials of Developing Windows Store Apps using HTML5 and JavaScript
+http://www.microsoft.com/learning/en/us/Exam.aspx?ID=70-481 
+2. Microsoft Exam 70-482: Advanced Windows Store App Development using HTML5 and JavaScript
+http://www.microsoft.com/learning/en/us/Exam.aspx?ID=70-482
+
+Books:
+1. Programming Windows 8 Apps with HTML, CSS, and JavaScript
+http://blogs.msdn.com/b/microsoft_press/archive/2012/10/29/free-ebook-programming-windows-8-apps-with-html-css-and-javascript.aspx
+
+http://blogs.msdn.com/b/microsoft_press/archive/2012/11/08/updated-companion-content-programming-windows-8-apps-with-html-css-and-javascript.aspx
+2. iPad/iPhone and Android Development using PhoneGap
+http://www.wowebook.com/book/phonegap-essentials/ 
+
+
+Cloud References:
+https://devcenter.heroku.com/articles/nodejs
+http://www.windowsazure.com/en-us/develop/nodejs/
+https://www.engineyard.com/blog/2012/nodejs/
+https://mongolab.com/home
